@@ -1,0 +1,8 @@
+{
+  "name": "MedConnect Clinic Scheduler",
+  "description": "A comprehensive clinic appointment booking system featuring patient booking flows, doctor management dashboards, and admin controls with an integrated AI medical assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
